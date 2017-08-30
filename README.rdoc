@@ -1,28 +1,19 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project Name: The K.A.R.L Project
 
-Things you may want to cover:
+Team: Dan Digney Github DanDigney,
+      Josh Alletto Github: JAlletto
+      Dillon Forestell Github: DForestell
+      Daniel Krzyzanowski Github: Dandanthedevman
 
-* Ruby version
+Project Description: A mobile first webapp to connect DBC Students to Mentors in real time.
 
-* System dependencies
+How to install the code locally: Clone down this repository, bundle install to insure dependencies are handled.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+How to use the app: Signup/Login as either a student or a mentor.
+You will then be taking to a page where you students can add requests and mentors can pick up student requests.
+A waiting list will display who is currently being helped by which mentors and the order in which students will
+subsiquently be helped.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
